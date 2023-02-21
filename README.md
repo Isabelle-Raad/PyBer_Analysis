@@ -18,7 +18,7 @@ The box and whisker plot shows that urban cities have on average the lowest fare
 The line chart shows the total fare each city generated per week for the first four months of 2019. All types of cities saw a spike on the week of February 24th.
 ![Fig3.png](analysis/Fig3.png)
 ![Fig5.png](analysis/Fig5.png)
-![PyBer_fare_summary.png](PyBer_fare_summary/Fig5.png)
+![PyBer_fare_summary.png](analysis/PyBer_fare_summary.png)
 
 ### Comparing Drivers by City Type
 The box and whisker plot shows that on average, rural cities have significantly less drivers than urban cities. And the pie chart shows that rural drivers account for less than three percent of all drivers. On the other hand, urban cities have over 80% of drivers.
